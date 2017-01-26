@@ -1,0 +1,48 @@
+0ab764d8
+2637618: 0
+
+12d28e90 
+308387: 2 //Fill
+
+a03af55b
+2625213: 1
+
+0ab764d8
+175577: 0 //Miss 
+
+a0fcc870
+308387: 2 // Hit at top when not full
+
+0ab764d8
+2637618: 0
+
+a03af55b 
+2625213: 1 //Hit in middle when not full
+
+0ab767b0
+175577: 3 //Fill cache
+
+308387: 2 //Hit at top when not full
+0ab764d8
+
+12d28e94
+175577: 3 //Fill cache
+
+a0fd07fc
+308387: 2 //Hit at top when full
+
+0ab764d8
+175577: 0 //Hit at top when not fll
+
+12d28e97
+308387: 2
+a03af55b
+2625213: 1
+12d38c70
+308451: 0
+a03af55b
+2625213: 1
+0ab767b0
+175577: 3
+a0fd07fc
+2637633: 3

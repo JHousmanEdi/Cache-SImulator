@@ -1,0 +1,4 @@
+/tmp/ccyO9bys.o: In function `main':
+/home/jason/Abroad Semester/Systems/cw2/cache_sim.c:306: undefined reference to `log'
+/home/jason/Abroad Semester/Systems/cw2/cache_sim.c:311: undefined reference to `log'
+collect2: error: ld returned 1 exit status

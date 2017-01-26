@@ -1,0 +1,13 @@
+Num_Blocks:32
+Bits_BlockOffset:8
+Bits_Index:0
+Bits_Tag:24
+Total_Accesses:1465707
+Total_Hits:1422038
+Total_HitRate:97.02%
+Instruction_Accesses:1104614
+Instruction_Hits:1092007
+Instruction_HitRate:98.86%
+Data_Accesses:361093
+Data_Hits:330031
+Data_HitRate:91.40%
